@@ -1,5 +1,9 @@
 streamlit
-streamlit
-pandas
-numpy
 joblib
+numpy
+matplotlib
+pandas
+scikit-learn
+yellowbrick
+plotly
+scipy
